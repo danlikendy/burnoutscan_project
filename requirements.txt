@@ -5,7 +5,9 @@ joblib
 xgboost
 numpy
 pandas
+scikit-learn
+imbalanced-learn
 streamlit
-seaborn
 matplotlib
+seaborn
 requests
