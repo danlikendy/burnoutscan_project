@@ -49,7 +49,7 @@ BurnoutScan/
 │
 ├── requirements.txt
 ├── README.md
-└── run_all.bat
+└── .bat
 ```
 
 ## Описание
